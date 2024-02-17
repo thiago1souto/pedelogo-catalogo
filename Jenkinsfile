@@ -12,10 +12,3 @@ pipeline {
 }
 
 
-//TThiago Souto novo
-
-
-
-// 12022024
-
-
